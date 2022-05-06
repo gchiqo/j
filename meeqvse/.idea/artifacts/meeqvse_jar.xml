@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="meeqvse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/meeqvse_jar</output-path>
+    <root id="archive" name="meeqvse.jar">
+      <element id="module-output" name="meeqvse" />
+    </root>
+  </artifact>
+</component>
